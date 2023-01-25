@@ -5,7 +5,7 @@ body {
 }
 
 /* QR Card Styles */
-div, img{
+main, footer, img{
     border-radius: 20px;
 }
 .qr-card {
